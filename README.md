@@ -1,2 +1,0 @@
-# developer-minds
-cloud Repo
